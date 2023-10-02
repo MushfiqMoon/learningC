@@ -1,12 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
-// arithmetic operators: + - * / % 
+// arithmetic operators: + - * / %
 
-int main() {
-
+int main()
+{
     int firstNum, secondNum;
 
-    if (scanf("%d %d", &firstNum, &secondNum) == 2) {
+    if (scanf("%d %d", &firstNum, &secondNum) == 2)
+    {
         // // Addition operator: (+)
         int sum = firstNum + secondNum;
         printf("Sum: %d\n", sum);
@@ -28,14 +29,13 @@ int main() {
         printf("Modulo : %d\n", mod);
 
         // // Division with float
-        float devFloat = firstNum*1.0 / secondNum;
+        float devFloat = firstNum * 1.0 / secondNum;
         printf("Division with float Num : %f\n", devFloat);
-
-    } else {
-
+    }
+    else
+    {
         printf("Input error. Please enter two integers.\n");
     }
-
 
     return 0;
 }

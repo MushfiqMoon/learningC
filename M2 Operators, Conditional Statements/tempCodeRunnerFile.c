@@ -1,3 +1,9 @@
-        // // Division  operator: (/)
-        int dev = firstNum / secondNum;
-        printf("Division : %d\n", dev);
+ if (number > 0 && number <= 100)
+    {
+        printf("tes" );
+
+    }
+    else
+    {
+        printf("Please input valid Number");
+    }
