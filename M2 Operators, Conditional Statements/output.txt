@@ -1,6 +1,1 @@
-Sum: 110
-Subtracts: 90
-Multiplication : 1000
-Division : 10
-Modulo : 0
-Division with float Num : 10.000000
+Input error. Please enter integers.
