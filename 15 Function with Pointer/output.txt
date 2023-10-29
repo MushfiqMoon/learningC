@@ -1,0 +1,6 @@
+inside main -  7
+printing the string
+Mushfik
+inside fun - 7
+printing the string after it change on the fun function
+Mushfiq
